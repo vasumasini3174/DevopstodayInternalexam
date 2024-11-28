@@ -9,4 +9,4 @@ else:
     print("Only ",b," is an even number");
     
 print("end of the program");
-print("I am in devops lab");
+print("I am in devops lab for internal exam");
