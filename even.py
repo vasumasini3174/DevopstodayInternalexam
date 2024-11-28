@@ -8,5 +8,5 @@ elif( a%2==0 ):
 else:
     print("Only ",b," is an even number");
     
-print("end of the program");
+print("this is the end of the program");
 print("I am in devops lab for internal exam");
